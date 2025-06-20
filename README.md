@@ -39,7 +39,22 @@ Build a command-line Employee Management Portal using **Java** and **MongoDB** t
 ### ✅ 6. Department Statistics
 - Aggregates total employees per department
 
-```json
-{ "_id": "IT", "count": 4 }
-{ "_id": "HR", "count": 3 }
-{ "_id": "Finance", "count": 3 }
+
+
+### 🖼️ Screenshots
+
+#### 📘 Terminal Output 
+
+
+![Students](img/emp.png)
+
+---
+
+
+#### 📕 Mongodb Output
+
+
+![Mongodb](img/employee.png)
+ 
+---
+
