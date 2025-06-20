@@ -1,6 +1,6 @@
 # 🗂️ Day 5 – Employee Management Portal (Java + MongoDB)
 
-📌 Objective
+## 📌 Objective
 Build a command-line Employee Management Portal using **Java** and **MongoDB** that supports:
 
 - Adding, updating, and deleting employee records
@@ -21,8 +21,8 @@ Build a command-line Employee Management Portal using **Java** and **MongoDB** t
 
 ### ✅ 3. Delete Employee
 - Delete using:
-    - `email`, or
-    - MongoDB `_id`
+  - `email`, or
+  - MongoDB `_id`
 
 ### ✅ 4. Search / Filter Employees
 - By **Name** (partial match with regex)
@@ -33,8 +33,8 @@ Build a command-line Employee Management Portal using **Java** and **MongoDB** t
 ### ✅ 5. List with Pagination
 - Returns 5 records per page
 - Sort by:
-    - `name`
-    - `joiningDate`
+  - `name`
+  - `joiningDate`
 
 ### ✅ 6. Department Statistics
 - Aggregates total employees per department
