@@ -1,5 +1,6 @@
 # 🗂️ Day 5 – Employee Management Portal (Java + MongoDB)
-## 📌 Objective
+
+📌 Objective
 Build a command-line Employee Management Portal using **Java** and **MongoDB** that supports:
 
 - Adding, updating, and deleting employee records
